@@ -6,6 +6,6 @@ Installation:
 2. Click on the Docker tab
 3. Add the following line under "Template Repositories"
 
-https://github.com/misfire/docker-templates`
+https://github.com/misfire/docker-templates
 
 Credits: JKatzen for fixing this up! \o/
