@@ -6,8 +6,6 @@ Installation:
 2. Click on the Docker tab
 3. Add the following line under "Template Repositories"
 
-`https://github.com/coppit/docker-templates`
+https://github.com/misfire/docker-templates`
 
-Alternatively, you can install the Community Repositories plugin, available [on the unRAID
-forums](http://lime-technology.com/forum/index.php?topic=39106.0). Then look for coppit's repository under the Docker
-tab.
+Credits: JKatzen for fixing this up! \o/
