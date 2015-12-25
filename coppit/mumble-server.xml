@@ -12,9 +12,9 @@
     Mumble is a voice over IP (VoIP) application primarily designed for use by gamers.
   </Overview>
   <Support>http://lime-technology.com/forum/index.php?topic=39560.0</Support>
-  <Registry>https://registry.hub.docker.com/u/coppit/mumble-server/</Registry>
-  <GitHub>https://github.com/coppit/docker-mumble-server</GitHub>
-  <Repository>coppit/mumble-server</Repository>
+  <Registry>https://hub.docker.com/r/jkatzen/mumble-server/</Registry>
+  <GitHub>https://github.com/J-Katzen/docker-mumble-server</GitHub>
+  <Repository>jkatzen/mumble-server</Repository>
   <BindTime>true</BindTime>
   <Privileged>false</Privileged>
     <Networking>
